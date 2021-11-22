@@ -1,6 +1,6 @@
-Hello! My name is Kira. I'm interested in web and mobile development.
+Hello! My name is Kira. I'm interested in web development.
 
-Currently I'm learning how to use the MEAN stack to create a website. It's deployed now! Feel free to message me if you want to take a look at it.
+I work for FamilySearch as a web developer and I maintain a website I built from scratch using the MEAN stack on the side.
 
 <!---
 kirapeters/kirapeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
