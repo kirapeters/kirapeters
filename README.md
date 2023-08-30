@@ -11,7 +11,8 @@ I made a website about myself [here](https://kirapeters.github.io/) a couple yea
 a little more ✨ spectacular ✨
 
 When I'm not coding, you'll usually find me practicing piano 🎹, playing TOTK 👾, or painting 🎨.
-Feel free to reach out to me through Instagram [@kirachereep] or my anonymous Twitter account [@kknozomikun](https://twitter.com/kknozomikun)
+Feel free to reach out to me through Instagram [@kirachereep](https://www.instagram.com/kirachereep/) or my anonymous
+Twitter account [@kknozomikun](https://twitter.com/kknozomikun)
 
 <!---
 kirapeters/kirapeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
