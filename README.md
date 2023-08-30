@@ -7,11 +7,17 @@ You may see a lot of empty space where I didn't make any commits from Jan 2022-J
 full time as a missionary for my church in Iowa. Yes the land of the corn fields 🌽. I loved serving there and talking to all
 sorts of different people including people from Tanzania and the Congo.
 
+When I'm not coding, you'll usually find me practicing piano 🎹, playing TOTK 👾, or painting 🎨.
+
+## Personal Website
 I made a website about myself [here](https://kirapeters.github.io/) a couple years ago and am currently in the process to make it
 a little more ✨ spectacular ✨
 
-When I'm not coding, you'll usually find me practicing piano 🎹, playing TOTK 👾, or painting 🎨.
-Feel free to reach out to me through Instagram [@kirachereep](https://www.instagram.com/kirachereep/) or my anonymous
+
+## Social Media
+Hire me! https://www.linkedin.com/in/kira-peters01/
+
+Talk to me on Instagram [@kirachereep](https://www.instagram.com/kirachereep/) or my anonymous
 Twitter account [@kknozomikun](https://twitter.com/kknozomikun)
 
 <!---
