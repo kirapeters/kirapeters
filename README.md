@@ -9,7 +9,7 @@ sorts of different people including people from Tanzania and the Congo.
 
 Currently I work for FamilySearch as a Software Developer 👩‍💻
 
-When I'm not coding, you'll usually find me practicing piano 🎹, playing TOTK 👾, or painting 🎨.
+When I'm not coding, you'll usually find me playing pickleball 🏓, walking 🚶‍♀️, cooking 🧑‍🍳, playing videogames 👾, or ministering to others 🤗.
 
 ## Personal Website
 I made a website about myself [here](https://kirapeters.github.io/) a couple years ago and am currently in the process to make it
