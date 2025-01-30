@@ -19,8 +19,7 @@ a little more ✨ spectacular ✨
 ## Social Media
 Connect with me! https://www.linkedin.com/in/kira-peters01/
 
-Talk to me on Instagram [@kirachereep](https://www.instagram.com/kirachereep/) or my anonymous
-Twitter account [@kknozomikun](https://twitter.com/kknozomikun)
+Talk to me on Instagram [@kirachereep](https://www.instagram.com/kirachereep/)
 
 <!---
 kirapeters/kirapeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
