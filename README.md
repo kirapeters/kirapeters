@@ -1,7 +1,7 @@
 # About Me!
 Hello! My name is Kira. I have a bachelor's degree in software engineering and my passion is for web development.
 
-I work on maintaining a website I created for a guitar teacher with the MEAN stack called [EstudioGuitar](estudioguitar.com)
+I work on maintaining a website I created for a guitar teacher with the MEAN stack called [EstudioGuitar](https://www.estudioguitar.com)
 
 You may see a lot of empty space where I didn't make any commits from Jan 2022-June 2023. This was because I was volunteering
 full time as a missionary for my church in Iowa. Yes the land of the corn fields 🌽. I loved serving there and talking to all
